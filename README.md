@@ -1,2 +1,2 @@
-# virtual-closet
-Armario virtual
+# virtual-closet-client
+Cliente para el armario virtual
